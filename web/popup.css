@@ -1,0 +1,29 @@
+body,html {
+    width: 20rem;
+  }
+
+#warn{
+  width: 10rem;
+  height: 10rem;
+}
+
+#logo {
+  width: 2rem;
+  height: 2rem;
+  float: left;
+  margin-left: 6rem;
+  border-radius: 50%;
+}
+
+h2 {
+  color: red;
+}
+
+div {
+  margin-top: 8rem;
+  padding:  1rem;
+}
+
+#right {
+  margin-left: 9rem;
+}
