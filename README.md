@@ -11,7 +11,7 @@ Anti Phishing web extension
    ```
    venv\Scripts\activate
    ```
-2. Load the `APEX` named folder on your Chrome browser in the extensions part.
+2. Load the `APEX` named folder on your Chrome browser by navigating to `chrome://extensions/`, enabling developer mode, and using the "Load unpacked" option.
 3. Run the `main.py` file on your IDE.
 4. Open the site you want to test.
 5. Check the output by clicking the extension icon in the Chrome browser.
@@ -19,5 +19,7 @@ Anti Phishing web extension
 
 ---
 
-*Ensure you have all dependencies installed and the environment properly configured before proceeding.*
+*Ensure you have all dependencies installed and the environment properly configured before proceeding.* For dependencies, check the `requirements.txt` file and install them using the command: `pip install -r requirements.txt`.
+
+
 
